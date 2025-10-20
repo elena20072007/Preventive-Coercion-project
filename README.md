@@ -13,8 +13,8 @@ This research investigates the emergence of preventive coercion as a unique lega
 ## Usage / Citation
 If you use this work, please cite as:
 
-Vassilieva, E. (2025). *Testing the DAPO: Hidden Risks of Preventive Coercion*. Zenodo. DOI: [(https://doi.org/10.5281/zenodo.17393367)
+Vassilieva, E. (2025). *Testing the DAPO: Hidden Risks of Preventive Coercion*. Zenodo. 
 
-
+DOI: 10.5281/zenodo.17393367](https://doi.org/10.5281/zenodo.17393367)
 ## Contact
 For comments or discussion, contact **Elena Vassilieva** at your-email@example.com
