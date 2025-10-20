@@ -17,4 +17,4 @@ Vassilieva, E. (2025). *Testing the DAPO: Hidden Risks of Preventive Coercion*. 
 
 DOI: 10.5281/zenodo.17393367](https://doi.org/10.5281/zenodo.17393367)
 ## Contact
-For comments or discussion, contact **Elena Vassilieva** at your-email@example.com
+For comments or discussion, contact **Elena Vassilieva** 
